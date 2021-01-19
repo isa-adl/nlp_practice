@@ -1,4 +1,4 @@
-# npl_practice
+# nlp_practice
 Natural Language Processing Practice
 
 
